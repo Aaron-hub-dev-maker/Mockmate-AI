@@ -182,33 +182,33 @@ The reported results show improvements across these measures as additional modal
 
 The screenshots below show selected screens and outputs from the application. Ensure the images are committed to the repository in the `images` directory with the exact filenames shown.
 
-![Interviewer Login](Assets/1.png)
+![Screenshort-1](Assets/1.png)
 
-![Interviewer Dashboard](Assets/2.png)
+![Screenshort-2](Assets/2.png)
 
-![Candidate Management](Assets/3.png)
+![Screenshort-3](Assets/3.png)
 
-![Job Description Setup](Assets/4.png)
+![Screenshort-4](Assets/4.png)
 
-![Candidate Interview Status](Assets/5.png)
+![Screenshort-5](Assets/5.png)
 
-![Candidate Ranking](Assets/6.png)
+![Screenshort-6](Assets/6.png)
 
-![Audio Confidence Analysis](Assets/7.png)
+![Screenshort-7](Assets/7.png)
 
-![Multimodal Video Analysis](Assets/8.png)
+![Screenshort-8](Assets/8.png)
 
-![AI Question Generator and Resume Analyzer](Assets/9.png)
+![Screenshort-9](Assets/9.png)
 
-![AI Question Generator and Resume Analyzer](Assets/10.png)
+![Screenshort-10](Assets/10.png)
 
-![AI Question Generator and Resume Analyzer](Assets/11.png)
+![Screenshort-11](Assets/11.png)
 
-![AI Question Generator and Resume Analyzer](Assets/12.png)
+![Screenshort-12](Assets/12.png)
 
-![AI Question Generator and Resume Analyzer](Assets/13.png)
+![Screenshort-13](Assets/13.png)
 
-![AI Question Generator and Resume Analyzer](Assets/14.png)
+![Screenshort-14](Assets/14.png)
 
 ## Ethics, Fairness, and Limitations
 
