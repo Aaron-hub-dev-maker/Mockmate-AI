@@ -315,13 +315,7 @@ The project documentation states that the paper was communicated to the **Intern
 - Explore domain-specific interviews beyond technical roles.
 - Strengthen privacy, consent, and human-review mechanisms.
 
-## Contributing
 
-If you plan to accept contributions, document your preferred contribution workflow—for example, opening an issue before submitting a pull request.
-
-## License
-
-No license was specified in the supplied project documentation. Add a `LICENSE` file and update this section before allowing others to reuse or redistribute the code.
 
 ---
 
