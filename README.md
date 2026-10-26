@@ -194,21 +194,21 @@ The screenshots below show selected screens and outputs from the application. En
 
 ![Screenshort-6](Assets/6.png)
 
-![Screenshort-7](Assets/7.png)
+![Screenshort-7](Assets/7.jpg)
 
-![Screenshort-8](Assets/8.png)
+![Screenshort-8](Assets/8.jpg)
 
-![Screenshort-9](Assets/9.png)
+![Screenshort-9](Assets/9.jpg)
 
-![Screenshort-10](Assets/10.png)
+![Screenshort-10](Assets/10.jpg)
 
-![Screenshort-11](Assets/11.png)
+![Screenshort-11](Assets/11.jpg)
 
-![Screenshort-12](Assets/12.png)
+![Screenshort-12](Assets/12.jpg)
 
-![Screenshort-13](Assets/13.png)
+![Screenshort-13](Assets/13.jpg)
 
-![Screenshort-14](Assets/14.png)
+![Screenshort-14](Assets/14.jpg)
 
 ## Ethics, Fairness, and Limitations
 
